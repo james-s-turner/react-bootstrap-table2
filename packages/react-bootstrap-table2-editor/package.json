@@ -1,6 +1,6 @@
 {
   "name": "react-bootstrap-table2-editor",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "description": "it's the editor addon for react-bootstrap-table2",
   "main": "./lib/index.js",
   "scripts": {
@@ -43,5 +43,8 @@
     "prop-types": "^15.0.0",
     "react": "^16.3.0",
     "react-dom": "^16.3.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

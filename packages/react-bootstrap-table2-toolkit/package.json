@@ -1,6 +1,6 @@
 {
   "name": "react-bootstrap-table2-toolkit",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "The toolkit for react-bootstrap-table2",
   "main": "./lib/index.js",
   "repository": {
@@ -46,5 +46,8 @@
   },
   "dependencies": {
     "file-saver": "2.0.2"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
