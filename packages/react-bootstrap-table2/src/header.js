@@ -40,7 +40,6 @@ const Header = (props) => {
     columns.map((column, i) => {
       const currSort = column.dataField === sortField;
       const isLastSorting = column.dataField === sortField;
-
       return (
         <HeaderCell
           index={ i }
