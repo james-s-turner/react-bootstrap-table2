@@ -1,6 +1,6 @@
 {
   "name": "@jamest-esparter/react-bootstrap-table2-editor",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "it's the editor addon for react-bootstrap-table2",
   "main": "./lib/index.js",
   "scripts": {
