@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ab230d3e-cdb7-4003-9646-73ea91edbed1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/packages/react-bootstrap-table2/src/bootstrap-table.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/react-bootstrap-table2/src/bootstrap-table.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/react-bootstrap-table2/src/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/react-bootstrap-table2/src/header.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/packages/react-bootstrap-table2/src/header.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1818">
-              <caret line="101" column="33" lean-forward="true" selection-start-line="100" selection-start-column="2" selection-end-line="101" selection-end-column="33" />
+              <caret line="101" column="33" selection-start-line="100" selection-start-column="2" selection-end-line="101" selection-end-column="33" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#44#70#0" expanded="true" />
@@ -41,8 +40,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/packages/react-bootstrap-table2/src/bootstrap-table.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="596">
-              <caret line="218" column="33" selection-start-line="218" selection-start-column="33" selection-end-line="218" selection-end-column="33" />
+            <state relative-caret-position="620">
+              <caret line="99" column="44" selection-start-line="99" selection-start-column="44" selection-end-line="99" selection-end-column="44" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -58,6 +57,7 @@
       <find>HeaderCell</find>
       <find>npm publish</find>
       <find>publish</find>
+      <find>validateProps</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -210,12 +210,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562658726301</updated>
-      <workItem from="1562658727512" duration="6979000" />
+      <workItem from="1562658727512" duration="7205000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6979000" />
+    <option name="totallyTimeSpent" value="7205000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-105" y="-1027" width="1563" height="969" extended-state="0" />
@@ -334,7 +334,7 @@
     <entry file="file://$PROJECT_DIR$/packages/react-bootstrap-table2/src/header.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1818">
-          <caret line="101" column="33" lean-forward="true" selection-start-line="100" selection-start-column="2" selection-end-line="101" selection-end-column="33" />
+          <caret line="101" column="33" selection-start-line="100" selection-start-column="2" selection-end-line="101" selection-end-column="33" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#44#70#0" expanded="true" />
@@ -344,8 +344,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/packages/react-bootstrap-table2/src/bootstrap-table.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="596">
-          <caret line="218" column="33" selection-start-line="218" selection-start-column="33" selection-end-line="218" selection-end-column="33" />
+        <state relative-caret-position="620">
+          <caret line="99" column="44" selection-start-line="99" selection-start-column="44" selection-end-line="99" selection-end-column="44" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

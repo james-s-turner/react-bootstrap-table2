@@ -96,6 +96,8 @@ class BootstrapTable extends PropsBaseResolver(Component) {
             onExternalFilter={ this.props.onExternalFilter }
             selectRow={ selectRow }
             expandRow={ expandRow }
+            preHeaderRows={ preHeaderRows }
+            postHeaderRows={ postHeaderRows }
           />
           <Body
             data={ this.getData() }
