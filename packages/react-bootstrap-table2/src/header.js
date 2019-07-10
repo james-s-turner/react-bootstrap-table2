@@ -75,12 +75,17 @@ const Header = (props) => {
 
   return (
     <thead>
+      <PreHeaders />
       <tr className={ className }>
         { childrens }
       </tr>
     </thead>
   );
 };
+
+function PreHeaders() {
+  return null;
+}
 
 Header.propTypes = {
   columns: PropTypes.array.isRequired,

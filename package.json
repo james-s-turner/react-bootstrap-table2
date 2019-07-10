@@ -1,7 +1,7 @@
 {
-  "name": "react-bootstrap-table2",
+  "name": "@jamest-esparter/react-bootstrap-table2",
   "version": "0.0.1",
-  "private": true,
+  "private": false,
   "description": "Rebuilt for react-bootstrap-table",
   "main": "index.js",
   "scripts": {
@@ -64,7 +64,7 @@
     "gulp-clean": "0.4.0",
     "gulp-clean-css": "3.9.2",
     "gulp-rename": "^1.2.2",
-    "gulp-sass": "3.1.0",
+    "gulp-sass": "^3.1.0",
     "gulp-shell": "0.6.5",
     "html-webpack-plugin": "2.30.1",
     "jest": "20.0.4",
@@ -84,7 +84,8 @@
     "prop-types": "15.5.10",
     "react": "16.4.0",
     "react-dom": "16.4.0",
-    "underscore": "1.9.1"
+    "underscore": "1.9.1",
+    "yarn": "^1.16.0"
   },
   "jest": {
     "collectCoverageFrom": [
