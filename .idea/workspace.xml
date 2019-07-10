@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab230d3e-cdb7-4003-9646-73ea91edbed1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packages/react-bootstrap-table2/src/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/react-bootstrap-table2/src/header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,11 +25,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lerna.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
               <caret line="5" column="25" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/packages/react-bootstrap-table2/src/header.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -54,7 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/packages/react-bootstrap-table2/src/header.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/node_modules/webpack/package.json" />
         <option value="$PROJECT_DIR$/node_modules/lerna/lib/NpmUtilities.js" />
@@ -65,6 +75,7 @@
         <option value="$PROJECT_DIR$/packages/react-bootstrap-table2-overlay/package.json" />
         <option value="$PROJECT_DIR$/packages/react-bootstrap-table2-paginator/package.json" />
         <option value="$PROJECT_DIR$/packages/react-bootstrap-table2-toolkit/package.json" />
+        <option value="$PROJECT_DIR$/packages/react-bootstrap-table2/src/header.js" />
       </list>
     </option>
   </component>
@@ -97,6 +108,24 @@
               <item name="react-bootstrap-table2" type="b2602c69:ProjectViewProjectNode" />
               <item name="react-bootstrap-table2" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="react-bootstrap-table2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-bootstrap-table2" type="462c0819:PsiDirectoryNode" />
+              <item name="packages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-bootstrap-table2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-bootstrap-table2" type="462c0819:PsiDirectoryNode" />
+              <item name="packages" type="462c0819:PsiDirectoryNode" />
+              <item name="react-bootstrap-table2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-bootstrap-table2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-bootstrap-table2" type="462c0819:PsiDirectoryNode" />
+              <item name="packages" type="462c0819:PsiDirectoryNode" />
+              <item name="react-bootstrap-table2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -105,6 +134,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -139,15 +169,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562658726301</updated>
-      <workItem from="1562658727512" duration="5256000" />
+      <workItem from="1562658727512" duration="5739000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5256000" />
+    <option name="totallyTimeSpent" value="5739000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="66" y="23" width="1563" height="969" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Gulp" side_tool="true" />
@@ -181,17 +212,6 @@
           <caret line="95" column="21" selection-start-line="95" selection-start-column="12" selection-end-line="95" selection-end-column="21" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packages/react-bootstrap-table2/src/header.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="471">
-          <caret line="86" column="14" selection-start-line="86" selection-start-column="14" selection-end-line="86" selection-end-column="14" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#44#70#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -277,6 +297,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="25" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/react-bootstrap-table2/src/header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,7 +1,6 @@
 /* eslint react/require-default-props: 0 */
 import React from 'react';
 import PropTypes from 'prop-types';
-
 import HeaderCell from './header-cell';
 import SelectionHeaderCell from './row-selection/selection-header-cell';
 import ExpandHeaderCell from './row-expand/expand-header-cell';
