@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab230d3e-cdb7-4003-9646-73ea91edbed1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/packages/react-bootstrap-table2/src/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/react-bootstrap-table2/src/header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/react-bootstrap-table2-editor/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/react-bootstrap-table2-editor/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/react-bootstrap-table2-example/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/react-bootstrap-table2-example/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/react-bootstrap-table2-filter/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/react-bootstrap-table2-filter/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/react-bootstrap-table2-overlay/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/react-bootstrap-table2-overlay/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/react-bootstrap-table2-paginator/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/react-bootstrap-table2-paginator/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/react-bootstrap-table2-toolkit/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/react-bootstrap-table2-toolkit/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/react-bootstrap-table2/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/react-bootstrap-table2/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,8 +33,62 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/packages/react-bootstrap-table2/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+            <state relative-caret-position="18">
+              <caret line="1" column="28" lean-forward="true" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/packages/react-bootstrap-table2-editor/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/packages/react-bootstrap-table2-example/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/packages/react-bootstrap-table2-filter/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/packages/react-bootstrap-table2-overlay/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/packages/react-bootstrap-table2-paginator/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/packages/react-bootstrap-table2-toolkit/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -42,7 +102,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/packages/react-bootstrap-table2/src/header.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="578">
@@ -77,6 +137,7 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/node_modules/webpack/package.json" />
         <option value="$PROJECT_DIR$/node_modules/lerna/lib/NpmUtilities.js" />
+        <option value="$PROJECT_DIR$/packages/react-bootstrap-table2/src/header.js" />
         <option value="$PROJECT_DIR$/packages/react-bootstrap-table2/package.json" />
         <option value="$PROJECT_DIR$/packages/react-bootstrap-table2-editor/package.json" />
         <option value="$PROJECT_DIR$/packages/react-bootstrap-table2-example/package.json" />
@@ -84,7 +145,6 @@
         <option value="$PROJECT_DIR$/packages/react-bootstrap-table2-overlay/package.json" />
         <option value="$PROJECT_DIR$/packages/react-bootstrap-table2-paginator/package.json" />
         <option value="$PROJECT_DIR$/packages/react-bootstrap-table2-toolkit/package.json" />
-        <option value="$PROJECT_DIR$/packages/react-bootstrap-table2/src/header.js" />
       </list>
     </option>
   </component>
@@ -126,7 +186,37 @@
               <item name="react-bootstrap-table2" type="b2602c69:ProjectViewProjectNode" />
               <item name="react-bootstrap-table2" type="462c0819:PsiDirectoryNode" />
               <item name="packages" type="462c0819:PsiDirectoryNode" />
+              <item name="react-bootstrap-table2-editor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-bootstrap-table2" type="b2602c69:ProjectViewProjectNode" />
               <item name="react-bootstrap-table2" type="462c0819:PsiDirectoryNode" />
+              <item name="packages" type="462c0819:PsiDirectoryNode" />
+              <item name="react-bootstrap-table2-example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-bootstrap-table2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-bootstrap-table2" type="462c0819:PsiDirectoryNode" />
+              <item name="packages" type="462c0819:PsiDirectoryNode" />
+              <item name="react-bootstrap-table2-filter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-bootstrap-table2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-bootstrap-table2" type="462c0819:PsiDirectoryNode" />
+              <item name="packages" type="462c0819:PsiDirectoryNode" />
+              <item name="react-bootstrap-table2-overlay" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-bootstrap-table2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-bootstrap-table2" type="462c0819:PsiDirectoryNode" />
+              <item name="packages" type="462c0819:PsiDirectoryNode" />
+              <item name="react-bootstrap-table2-paginator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-bootstrap-table2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-bootstrap-table2" type="462c0819:PsiDirectoryNode" />
+              <item name="packages" type="462c0819:PsiDirectoryNode" />
+              <item name="react-bootstrap-table2-toolkit" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -171,12 +261,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562658726301</updated>
-      <workItem from="1562658727512" duration="6201000" />
+      <workItem from="1562658727512" duration="6330000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6201000" />
+    <option name="totallyTimeSpent" value="6330000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-105" y="-1027" width="1563" height="969" extended-state="0" />
@@ -218,48 +308,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/packages/react-bootstrap-table2-overlay/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="701">
-          <caret line="46" column="2" selection-start-line="46" selection-start-column="2" selection-end-line="46" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packages/react-bootstrap-table2-toolkit/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packages/react-bootstrap-table2-paginator/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="683">
-          <caret line="45" column="2" selection-start-line="45" selection-start-column="2" selection-end-line="45" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packages/react-bootstrap-table2-filter/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="694">
-          <caret line="45" column="3" selection-start-line="45" selection-start-column="3" selection-end-line="45" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packages/react-bootstrap-table2-example/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="31" column="3" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packages/react-bootstrap-table2-editor/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="737">
-          <caret line="48" column="3" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/lerna/lib/NpmUtilities.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="292">
@@ -295,13 +343,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/packages/react-bootstrap-table2/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/packages/react-bootstrap-table2/src/header.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
@@ -310,6 +351,55 @@
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#44#70#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/react-bootstrap-table2/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="28" lean-forward="true" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/react-bootstrap-table2-editor/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/react-bootstrap-table2-example/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/react-bootstrap-table2-filter/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/react-bootstrap-table2-overlay/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/react-bootstrap-table2-paginator/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/react-bootstrap-table2-toolkit/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
         </state>
       </provider>
     </entry>
