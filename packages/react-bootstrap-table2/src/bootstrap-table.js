@@ -64,7 +64,9 @@ class BootstrapTable extends PropsBaseResolver(Component) {
       rowEvents,
       selectRow,
       expandRow,
-      cellEdit
+      cellEdit,
+      preHeaderRows,
+      postHeaderRows
     } = this.props;
 
     const tableWrapperClass = cs('react-bootstrap-table', wrapperClasses);
@@ -212,7 +214,9 @@ BootstrapTable.propTypes = {
     searchText: PropTypes.string,
     searchContext: PropTypes.func
   }),
-  setDependencyModules: PropTypes.func
+  setDependencyModules: PropTypes.func,
+  preHeaderRows: PropTypes.array,
+  postHeaderRows: PropTypes.array
 };
 
 BootstrapTable.defaultProps = {

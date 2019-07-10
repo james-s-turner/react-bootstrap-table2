@@ -18,7 +18,9 @@ const Header = (props) => {
     sortOrder,
     selectRow,
     onExternalFilter,
-    expandRow
+    expandRow,
+    preHeaderRows,
+    postHeaderRows
   } = props;
 
   let SelectionHeaderCellComp = () => null;
@@ -73,10 +75,11 @@ const Header = (props) => {
 
   return (
     <thead>
-      <PreHeaders />
+      {preHeaderRows}
       <tr className={ className }>
         { childrens }
       </tr>
+      {postHeaderRows}
     </thead>
   );
 };
@@ -94,7 +97,9 @@ Header.propTypes = {
   selectRow: PropTypes.object,
   onExternalFilter: PropTypes.func,
   className: PropTypes.string,
-  expandRow: PropTypes.object
+  expandRow: PropTypes.object,
+  preHeaderRows: PropTypes.array,
+  postHeaderRows: PropTypes.array
 };
 
 export default Header;
